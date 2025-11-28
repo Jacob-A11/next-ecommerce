@@ -1,0 +1,258 @@
+[33mcommit c65309c9d6eead436e8213973f5349695a7f6adc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Mon Dec 16 23:17:33 2024 -0300
+
+    Add src folder (#45)
+    
+    Co-authored-by: Lucas Pulliese <lucas@autocomplete.io>
+
+[33mcommit f53696f54c05db7b410cf78ab712c672a190b33d[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Thu Nov 28 15:51:16 2024 -0300
+
+    Added eslint config recommended (#44)
+    
+    Co-authored-by: Lucas Pulliese <lucas@autocomplete.io>
+
+[33mcommit eb28f4000b19fdc000ee191de8c9c157b1445610[m
+Merge: 5795ff3 f202936
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Wed Nov 27 10:42:36 2024 -0300
+
+    Fixed google font imports (#43)
+
+[33mcommit f202936f1d3c7102ca7e9e28bac4ee6c7290f0b7[m
+Author: Lucas Pulliese <lucas@autocomplete.io>
+Date:   Tue Nov 26 23:59:55 2024 -0300
+
+    Fixed google font imports
+
+[33mcommit 5795ff3a4c116644ec4fb7f67fb8db560d6372fd[m
+Merge: 6c4888d 5c86eb8
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Tue Nov 26 23:32:17 2024 -0300
+
+    Upgrade Next version (#42)
+
+[33mcommit 5c86eb8536984caaaa0b3a951348252485809eb0[m
+Author: Lucas Pulliese <lucas@autocomplete.io>
+Date:   Tue Nov 26 23:23:13 2024 -0300
+
+    fix build
+
+[33mcommit a294ebe560d8cbd6f92e54816d207c2f1aee40f0[m
+Author: Lucas Pulliese <lucas@autocomplete.io>
+Date:   Tue Nov 26 23:18:07 2024 -0300
+
+    readme
+
+[33mcommit 8ca91f94d236af3ac256950cb8aff4fe728dbd9f[m
+Author: Lucas Pulliese <lucas@autocomplete.io>
+Date:   Tue Nov 26 21:22:19 2024 -0300
+
+    Codemod changes
+
+[33mcommit 7a613a45062b555f13a5b34c81f752d108e9853f[m
+Author: Lucas Pulliese <lucas@autocomplete.io>
+Date:   Tue Nov 26 20:16:31 2024 -0300
+
+    WIP upgrading version
+
+[33mcommit 6c4888d24adfeda25f47fef549b4e04400b6e2a2[m
+Merge: 00de7f9 90c7e44
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Sat Jun 11 01:55:41 2022 -0300
+
+    Merge pull request #26 from lucaspulliese/dev
+    
+    Dev
+
+[33mcommit 90c7e445e8ffd0f0eb3eed2aa6cac30fd9f83440[m
+Merge: 5f43d75 3804231
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Sat Jun 11 01:55:24 2022 -0300
+
+    Merge pull request #25 from lucaspulliese/feat-add-typescript
+    
+    Fixed header component import
+
+[33mcommit 38042314933bf89da49a50ee86041f2a88922e61[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Sat Jun 11 01:52:47 2022 -0300
+
+    Fixed header component import
+
+[33mcommit 00de7f9fcd0b14dcd968a5224d42988baf1a5a4f[m
+Merge: e681116 5f43d75
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Sat Jun 11 01:50:26 2022 -0300
+
+    Merge pull request #24 from lucaspulliese/dev
+    
+    Dev
+
+[33mcommit 5f43d75fb3e355180ca955681eb8b96b7f34bb84[m
+Merge: e681116 8eb2b62
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Sat Jun 11 01:49:28 2022 -0300
+
+    Merge pull request #23 from lucaspulliese/feat-add-typescript
+    
+    Add typescript
+
+[33mcommit 8eb2b62b759122ec891b04375dc0ac7cf65bf52c[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Sat Jun 11 01:46:55 2022 -0300
+
+    Finished typescript integration
+
+[33mcommit 647782a0191a700287b69d37b4beed6ab5322784[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Tue Jun 7 02:08:00 2022 -0300
+
+    WIP typescript: needs build corrections
+
+[33mcommit f9a39dc2fb2684e2c17cc78cf5fb47e47c84b079[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Mon Jun 6 22:31:37 2022 -0300
+
+    WIP typescript for components
+
+[33mcommit 7ee505243b978f047b820e7bdf8df9917c8f5fad[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Sun Jun 5 19:56:04 2022 -0300
+
+    work in progress store with typescript
+
+[33mcommit 50ab9304ef32a26e1e9c5e4c2800a4a758cc413d[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Mon May 23 19:46:56 2022 -0300
+
+    WIP typescript
+
+[33mcommit 21abbaa9ac434403c7c4f61cc466d7dcc4f4818f[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Mon May 23 00:23:40 2022 -0300
+
+    added typescript to redux and some components
+
+[33mcommit ca9e94f6947eadc94dda1b8707f8d312d3286b5e[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Fri May 20 00:46:30 2022 -0300
+
+    WIP typescript in redux files
+
+[33mcommit d9d1ca03743d955e95a9ab1db1702ab9c25d3529[m
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Wed May 18 16:59:29 2022 -0300
+
+    WIP renaming files to tsx
+
+[33mcommit e6811162d7ccc52d5c531aad2fabe762960ffef1[m
+Merge: 8540cb2 12a1dbd
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Wed May 18 15:51:56 2022 -0300
+
+    Merge pull request #22 from lucaspulliese/dependabot/npm_and_yarn/nanoid-3.3.4
+    
+    Bump nanoid from 3.1.25 to 3.3.4
+
+[33mcommit 8540cb26df9a3b05c1174e0579a819f18db12d51[m
+Merge: 650917d cb7a6c6
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Wed May 18 15:51:27 2022 -0300
+
+    Merge pull request #18 from lucaspulliese/dependabot/npm_and_yarn/next-12.1.0
+    
+    Bump next from 11.1.0 to 12.1.0
+
+[33mcommit cb7a6c6289be430a9884d38390cb0da5b63fdc24[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed May 18 18:49:53 2022 +0000
+
+    Bump next from 11.1.0 to 12.1.0
+    
+    Bumps [next](https://github.com/vercel/next.js) from 11.1.0 to 12.1.0.
+    - [Release notes](https://github.com/vercel/next.js/releases)
+    - [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+    - [Commits](https://github.com/vercel/next.js/compare/v11.1.0...v12.1.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: next
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 12a1dbdaef847dd700b67572ec99a166947f0d79[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed May 18 18:48:32 2022 +0000
+
+    Bump nanoid from 3.1.25 to 3.3.4
+    
+    Bumps [nanoid](https://github.com/ai/nanoid) from 3.1.25 to 3.3.4.
+    - [Release notes](https://github.com/ai/nanoid/releases)
+    - [Changelog](https://github.com/ai/nanoid/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/ai/nanoid/compare/3.1.25...3.3.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nanoid
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 650917d8e378be4e3ef793873ea03da4f07507c3[m
+Merge: 51f3a10 caa045a
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Wed May 18 15:48:30 2022 -0300
+
+    Merge pull request #16 from lucaspulliese/dependabot/npm_and_yarn/nanoid-3.2.0
+    
+    Bump nanoid from 3.1.25 to 3.2.0
+
+[33mcommit 51f3a10d7f6516f9adf2b5cffcb9bcaa6e16f0d5[m
+Merge: c64cec9 eafea38
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Wed May 18 15:48:20 2022 -0300
+
+    Merge pull request #17 from lucaspulliese/dependabot/npm_and_yarn/node-fetch-3.1.1
+    
+    Bump node-fetch from 2.6.1 to 3.1.1
+
+[33mcommit c64cec932826d9dfd4f5a7dac51387416a6afc81[m
+Merge: 8e94db1 f658157
+Author: Lucas Pulliese <lucaspulliese10@gmail.com>
+Date:   Wed May 18 15:48:04 2022 -0300
+
+    Merge pull request #19 from lucaspulliese/dependabot/npm_and_yarn/minimist-1.2.6
+    
+    Bump minimist from 1.2.5 to 1.2.6
+
+[33mcommit f6581577a83bed002879b5cbe388c8eb679b6a05[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Mar 27 09:38:50 2022 +0000
+
+    Bump minimist from 1.2.5 to 1.2.6
+    
+    Bumps [minimist](https://github.com/substack/minimist) from 1.2.5 to 1.2.6.
+    - [Release notes](https://github.com/substack/minimist/releases)
+    - [Commits](https://github.com/substack/minimist/compare/1.2.5...1.2.6)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: minimist
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit eafea38946e1bf0c55f85fc84943bce6f285335c[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Jan 22 13:38:02 2022 +0000
+
+    Bump node-fetch from 2.6.1 to 3.1.1
+    
+    Bumps [node-fetch](https

@@ -34,9 +34,9 @@ The API is being handled by Next API routes.
 
 ## Screenshots
 
-![Next Ecommerce screenshot](https://lucaspulliese.com/wp-content/uploads/2020/09/ecommerce-1.jpg)
+![Next Ecommerce screenshot](screenshot-1.jpg)
 
-![Next Ecommerce screenshot](https://lucaspulliese.com/wp-content/uploads/2020/09/ecommerce-2.jpg)
+![Next Ecommerce screenshot](screenshot-2.jpg)
 
 ## New features added - Nov 2024
 
