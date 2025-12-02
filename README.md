@@ -32,12 +32,6 @@ The API is being handled by Next API routes.
 - Register page: /register
 - 404 page: /page-not-found
 
-## Screenshots
-
-![Next Ecommerce screenshot](screenshot-1.jpg)
-
-![Next Ecommerce screenshot](screenshot-2.jpg)
-
 ## New features added - Nov 2024
 
 - Updated Next version.
